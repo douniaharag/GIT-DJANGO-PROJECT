@@ -1,4 +1,4 @@
-                                                          ### Creating a Blog Application using Django
+### Creating a Blog Application using Django
 
 Installing Django In The Virtual Environment
 If you have already installed Django, you can skip this section and jump straight to the Setting up the project section. To Install Django on your virtual environment run the below command
