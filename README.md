@@ -49,3 +49,6 @@ python manage.py runserver
 ```
 
 Open your browser and go to this address ```http://127.0.0.1:8000/``` if everything went well you should see this page.
+
+
+The project is ready :tada:
